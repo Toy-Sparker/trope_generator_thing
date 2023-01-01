@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/trope_gen_test.png-2ef8507c889ec07624c2b757786ff4fb.stex"
+path="res://.import/trope_gen_test.png-dbd6063b2602a471352028bf0f03c89e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Export/trope_gen_test.png"
-dest_files=[ "res://.import/trope_gen_test.png-2ef8507c889ec07624c2b757786ff4fb.stex" ]
+source_file="res://trope_gen_test.png"
+dest_files=[ "res://.import/trope_gen_test.png-dbd6063b2602a471352028bf0f03c89e.stex" ]
 
 [params]
 
