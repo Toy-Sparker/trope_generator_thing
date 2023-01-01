@@ -21,7 +21,7 @@ TropeLibrary="*res://Scripts/TropeLibrary.gd"
 [gui]
 
 common/drop_mouse_on_gui_input_disabled=true
-theme/custom="res://UI.tres"
+theme/custom="res://UI Themes/UI.tres"
 
 [physics]
 
