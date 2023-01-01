@@ -1,0 +1,5 @@
+TO DO:
+- Continuously add tropes
+- Add categories of tropes
+- How a trope can be played
+- The fundamental workings of a trope
